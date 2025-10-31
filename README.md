@@ -20,5 +20,6 @@
 # git checkout
 - git checkout -b Branch_411214315
 - do some modification to intrgration.py
+- git add .
 - git commit -m 'modifying integration.py'
 - git push --set-upstream origin Branch_411214315
